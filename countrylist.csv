@@ -1,0 +1,289 @@
+"name","name1","name2","name3","name4","name5"
+"Afghanistan","afghanistan","afghanistan","af","afg","afghanistan"
+"Åland Islands","åland islands","åland islands","ax","ala",NA
+"Albania","albania","albania","al","alb","albania"
+"Algeria","algeria","algeria","dz","dza","algeria"
+"American Samoa","american samoa","american samoa","as","asm",NA
+"Andorra","andorra","andorra","ad","and","andorra"
+"Angola","angola","angola","ao","ago","angola"
+"Anguilla","anguilla","anguilla","ai","aia",NA
+"Antarctica","antarctica","antarctica","aq","ata",NA
+"Antigua & Barbuda","antigua & barbuda","antigua and barbuda","ag","atg","antigua and barbuda"
+"Argentina","argentina","argentina","ar","arg","argentina"
+"Armenia","armenia","armenia","am","arm","armenia"
+"Aruba","aruba","aruba","aw","abw",NA
+"Australia","australia","australia","au","aus","australia"
+"Austria","austria","austria","at","aut","austria"
+"Austria-Hungary","austria-hungary",NA,NA,NA,NA
+"Azerbaijan","azerbaijan","azerbaijan","az","aze","azerbaijan"
+"Baden","baden",NA,NA,NA,NA
+"Bahamas","bahamas","bahamas (the)","bs","bhs","bahamas"
+"Bahrain","bahrain","bahrain","bh","bhr","bahrain"
+"Bangladesh","bangladesh","bangladesh","bd","bgd","bangladesh"
+"Barbados","barbados","barbados","bb","brb","barbados"
+"Bavaria","bavaria",NA,NA,NA,NA
+"Belarus","belarus","belarus","by","blr","belarus"
+"Belgium","belgium","belgium","be","bel","belgium"
+"Belize","belize","belize","bz","blz","belize"
+"Benin","benin","benin","bj","ben","benin"
+"Bermuda","bermuda","bermuda","bm","bmu",NA
+"Bhutan","bhutan","bhutan","bt","btn","bhutan"
+"Bolivia","bolivia","bolivia (plurinational state of)","bo","bol","bolivia (plurinational state of)"
+"Bosnia & Herzegovina","bosnia & herzegovina","bosnia and herzegovina","ba","bih","bosnia and herzegovina"
+"Botswana","botswana","botswana","bw","bwa","botswana"
+"Bouvet Island","bouvet island","bouvet island","bv","bvt",NA
+"Brazil","brazil","brazil","br","bra","brazil"
+"British Indian Ocean Territory","british indian ocean territory","british indian ocean territory (the)","io","iot",NA
+"British Virgin Islands","british virgin islands","virgin islands (british)","vg","vgb",NA
+"Brunei","brunei","brunei darussalam","bn","brn","brunei darussalam"
+"Brunswick","brunswick",NA,NA,NA,NA
+"Bulgaria","bulgaria","bulgaria","bg","bgr","bulgaria"
+"Burkina Faso","burkina faso","burkina faso","bf","bfa","burkina faso"
+"Burundi","burundi","burundi","bi","bdi","burundi"
+"Cambodia","cambodia","cambodia","kh","khm","cambodia"
+"Cameroon","cameroon","cameroon","cm","cmr","cameroon"
+"Canada","canada","canada","ca","can","canada"
+"Cape Verde","cape verde","cabo verde","cv","cpv","cabo verde"
+"Caribbean Netherlands","caribbean netherlands","bonaire, sint eustatius and saba","bq","bes",NA
+"Cayman Islands","cayman islands","cayman islands (the)","ky","cym",NA
+"Central African Republic","central african republic","central african republic (the)","cf","caf","central african republic"
+"Chad","chad","chad","td","tcd","chad"
+"Channel Islands","channel islands",NA,NA,NA,NA
+"Chile","chile","chile","cl","chl","chile"
+"China","china","china","cn","chn","china"
+"Christmas Island","christmas island","christmas island","cx","cxr",NA
+"Cocos (Keeling) Islands","cocos (keeling) islands","cocos (keeling) islands (the)","cc","cck",NA
+"Colombia","colombia","colombia","co","col","colombia"
+"Comoros","comoros","comoros (the)","km","com","comoros"
+"Congo - Brazzaville","congo - brazzaville","congo (the)","cg","cog","congo"
+"Congo - Kinshasa","congo - kinshasa","congo (the democratic republic of the)","cd","cod","democratic republic of the congo"
+"Cook Islands","cook islands","cook islands (the)","ck","cok",NA
+"Costa Rica","costa rica","costa rica","cr","cri","costa rica"
+"Côte d’Ivoire","côte d’ivoire","côte d'ivoire","ci","civ","côte d’ivoire"
+"Croatia","croatia","croatia","hr","hrv","croatia"
+"Cuba","cuba","cuba","cu","cub","cuba"
+"Curaçao","curaçao","curaçao","cw","cuw",NA
+"Cyprus","cyprus","cyprus","cy","cyp","cyprus"
+"Czechia","czechia","czechia","cz","cze","czechia"
+"Czechoslovakia","czechoslovakia",NA,NA,NA,NA
+"Denmark","denmark","denmark","dk","dnk","denmark"
+"Djibouti","djibouti","djibouti","dj","dji","djibouti"
+"Dominica","dominica","dominica","dm","dma","dominica"
+"Dominican Republic","dominican republic","dominican republic (the)","do","dom","dominican republic"
+"Ecuador","ecuador","ecuador","ec","ecu","ecuador"
+"Egypt","egypt","egypt","eg","egy","egypt"
+"El Salvador","el salvador","el salvador","sv","slv","el salvador"
+"Equatorial Guinea","equatorial guinea","equatorial guinea","gq","gnq","equatorial guinea"
+"Eritrea","eritrea","eritrea","er","eri","eritrea"
+"Estonia","estonia","estonia","ee","est","estonia"
+"Eswatini","eswatini","eswatini","sz","swz","eswatini"
+"Ethiopia","ethiopia","ethiopia","et","eth","ethiopia"
+"Falkland Islands","falkland islands","falkland islands (the) [malvinas]","fk","flk",NA
+"Faroe Islands","faroe islands","faroe islands (the)","fo","fro",NA
+"Fiji","fiji","fiji","fj","fji","fiji"
+"Finland","finland","finland","fi","fin","finland"
+"France","france","france","fr","fra","france"
+"French Guiana","french guiana","french guiana","gf","guf",NA
+"French Polynesia","french polynesia","french polynesia","pf","pyf",NA
+"French Southern Territories","french southern territories","french southern territories (the)","tf","atf",NA
+"Gabon","gabon","gabon","ga","gab","gabon"
+"Gambia","gambia","gambia (the)","gm","gmb","gambia"
+"Georgia","georgia","georgia","ge","geo","georgia"
+"German Democratic Republic","german democratic republic",NA,NA,NA,NA
+"Germany","germany","germany","de","deu","germany"
+"Ghana","ghana","ghana","gh","gha","ghana"
+"Gibraltar","gibraltar","gibraltar","gi","gib",NA
+"Greece","greece","greece","gr","grc","greece"
+"Greenland","greenland","greenland","gl","grl",NA
+"Grenada","grenada","grenada","gd","grd","grenada"
+"Guadeloupe","guadeloupe","guadeloupe","gp","glp",NA
+"Guam","guam","guam","gu","gum",NA
+"Guatemala","guatemala","guatemala","gt","gtm","guatemala"
+"Guernsey","guernsey","guernsey","gg","ggy",NA
+"Guinea","guinea","guinea","gn","gin","guinea"
+"Guinea-Bissau","guinea-bissau","guinea-bissau","gw","gnb","guinea-bissau"
+"Guyana","guyana","guyana","gy","guy","guyana"
+"Haiti","haiti","haiti","ht","hti","haiti"
+"Hamburg","hamburg",NA,NA,NA,NA
+"Hanover","hanover",NA,NA,NA,NA
+"Heard & McDonald Islands","heard & mcdonald islands","heard island and mcdonald islands","hm","hmd",NA
+"Hesse Electoral","hesse electoral",NA,NA,NA,NA
+"Hesse Grand Ducal","hesse grand ducal",NA,NA,NA,NA
+"Hesse-Darmstadt","hesse-darmstadt",NA,NA,NA,NA
+"Hesse-Kassel","hesse-kassel",NA,NA,NA,NA
+"Honduras","honduras","honduras","hn","hnd","honduras"
+"Hong Kong SAR China","hong kong sar china","hong kong","hk","hkg",NA
+"Hungary","hungary","hungary","hu","hun","hungary"
+"Iceland","iceland","iceland","is","isl","iceland"
+"India","india","india","in","ind","india"
+"Indonesia","indonesia","indonesia","id","idn","indonesia"
+"Iran","iran","iran (islamic republic of)","ir","irn","iran (islamic republic of)"
+"Iraq","iraq","iraq","iq","irq","iraq"
+"Ireland","ireland","ireland","ie","irl","ireland"
+"Isle of Man","isle of man","isle of man","im","imn",NA
+"Israel","israel","israel","il","isr","israel"
+"Italy","italy","italy","it","ita","italy"
+"Jamaica","jamaica","jamaica","jm","jam","jamaica"
+"Japan","japan","japan","jp","jpn","japan"
+"Jersey","jersey","jersey","je","jey",NA
+"Jordan","jordan","jordan","jo","jor","jordan"
+"Kazakhstan","kazakhstan","kazakhstan","kz","kaz","kazakhstan"
+"Kenya","kenya","kenya","ke","ken","kenya"
+"Kiribati","kiribati","kiribati","ki","kir","kiribati"
+"Kosovo","kosovo",NA,NA,NA,NA
+"Kuwait","kuwait","kuwait","kw","kwt","kuwait"
+"Kyrgyzstan","kyrgyzstan","kyrgyzstan","kg","kgz","kyrgyzstan"
+"Laos","laos","lao people's democratic republic (the)","la","lao","lao people’s democratic republic"
+"Latvia","latvia","latvia","lv","lva","latvia"
+"Lebanon","lebanon","lebanon","lb","lbn","lebanon"
+"Lesotho","lesotho","lesotho","ls","lso","lesotho"
+"Liberia","liberia","liberia","lr","lbr","liberia"
+"Libya","libya","libya","ly","lby","libya"
+"Liechtenstein","liechtenstein","liechtenstein","li","lie","liechtenstein"
+"Lithuania","lithuania","lithuania","lt","ltu","lithuania"
+"Luxembourg","luxembourg","luxembourg","lu","lux","luxembourg"
+"Macao SAR China","macao sar china","macao","mo","mac",NA
+"Madagascar","madagascar","madagascar","mg","mdg","madagascar"
+"Malawi","malawi","malawi","mw","mwi","malawi"
+"Malaysia","malaysia","malaysia","my","mys","malaysia"
+"Maldives","maldives","maldives","mv","mdv","maldives"
+"Mali","mali","mali","ml","mli","mali"
+"Malta","malta","malta","mt","mlt","malta"
+"Marshall Islands","marshall islands","marshall islands (the)","mh","mhl","marshall islands"
+"Martinique","martinique","martinique","mq","mtq",NA
+"Mauritania","mauritania","mauritania","mr","mrt","mauritania"
+"Mauritius","mauritius","mauritius","mu","mus","mauritius"
+"Mayotte","mayotte","mayotte","yt","myt",NA
+"Mecklenburg Schwerin","mecklenburg schwerin",NA,NA,NA,NA
+"Mexico","mexico","mexico","mx","mex","mexico"
+"Micronesia (Federated States of)","micronesia (federated states of)","micronesia (federated states of)","fm","fsm","micronesia (federated states of)"
+"Modena","modena",NA,NA,NA,NA
+"Moldova","moldova","moldova (the republic of)","md","mda","republic of moldova"
+"Monaco","monaco","monaco","mc","mco","monaco"
+"Mongolia","mongolia","mongolia","mn","mng","mongolia"
+"Montenegro","montenegro","montenegro","me","mne","montenegro"
+"Montserrat","montserrat","montserrat","ms","msr",NA
+"Morocco","morocco","morocco","ma","mar","morocco"
+"Mozambique","mozambique","mozambique","mz","moz","mozambique"
+"Myanmar (Burma)","myanmar (burma)","myanmar","mm","mmr","myanmar"
+"Namibia","namibia","namibia","na","nam","namibia"
+"Nassau","nassau",NA,NA,NA,NA
+"Nauru","nauru","nauru","nr","nru","nauru"
+"Nepal","nepal","nepal","np","npl","nepal"
+"Netherlands","netherlands","netherlands (the)","nl","nld","netherlands"
+"Netherlands Antilles","netherlands antilles",NA,NA,NA,NA
+"New Caledonia","new caledonia","new caledonia","nc","ncl",NA
+"New Zealand","new zealand","new zealand","nz","nzl","new zealand"
+"Nicaragua","nicaragua","nicaragua","ni","nic","nicaragua"
+"Niger","niger","niger (the)","ne","ner","niger"
+"Nigeria","nigeria","nigeria","ng","nga","nigeria"
+"Niue","niue","niue","nu","niu",NA
+"Norfolk Island","norfolk island","norfolk island","nf","nfk",NA
+"North Korea","north korea","korea (the democratic people's republic of)","kp","prk","democratic people’s republic of korea"
+"North Macedonia","north macedonia","north macedonia","mk","mkd","north macedonia"
+"Northern Mariana Islands","northern mariana islands","northern mariana islands (the)","mp","mnp",NA
+"Norway","norway","norway","no","nor","norway"
+"Oldenburg","oldenburg",NA,NA,NA,NA
+"Oman","oman","oman","om","omn","oman"
+"Orange Free State","orange free state",NA,NA,NA,NA
+"Pakistan","pakistan","pakistan","pk","pak","pakistan"
+"Palau","palau","palau","pw","plw","palau"
+"Palestinian Territories","palestinian territories","palestine, state of","ps","pse",NA
+"Panama","panama","panama","pa","pan","panama"
+"Papua New Guinea","papua new guinea","papua new guinea","pg","png","papua new guinea"
+"Paraguay","paraguay","paraguay","py","pry","paraguay"
+"Parma","parma",NA,NA,NA,NA
+"Peru","peru","peru","pe","per","peru"
+"Philippines","philippines","philippines (the)","ph","phl","philippines"
+"Piedmont-Sardinia","piedmont-sardinia",NA,NA,NA,NA
+"Pitcairn Islands","pitcairn islands","pitcairn","pn","pcn",NA
+"Poland","poland","poland","pl","pol","poland"
+"Portugal","portugal","portugal","pt","prt","portugal"
+"Prussia","prussia",NA,NA,NA,NA
+"Puerto Rico","puerto rico","puerto rico","pr","pri",NA
+"Qatar","qatar","qatar","qa","qat","qatar"
+"Republic of Vietnam","republic of vietnam",NA,NA,NA,NA
+"Réunion","réunion","réunion","re","reu",NA
+"Romania","romania","romania","ro","rou","romania"
+"Russia","russia","russian federation (the)","ru","rus","russian federation"
+"Rwanda","rwanda","rwanda","rw","rwa","rwanda"
+"Saint Martin (French part)","saint martin (french part)","saint martin (french part)","mf","maf",NA
+"Samoa","samoa","samoa","ws","wsm","samoa"
+"San Marino","san marino","san marino","sm","smr","san marino"
+"São Tomé & Príncipe","são tomé & príncipe","sao tome and principe","st","stp","sao tome and principe"
+"Sardinia","sardinia",NA,NA,NA,NA
+"Saudi Arabia","saudi arabia","saudi arabia","sa","sau","saudi arabia"
+"Saxe-Weimar-Eisenach","saxe-weimar-eisenach",NA,NA,NA,NA
+"Saxony","saxony",NA,NA,NA,NA
+"Senegal","senegal","senegal","sn","sen","senegal"
+"Serbia","serbia","serbia","rs","srb","serbia"
+"Serbia and Montenegro","serbia and montenegro",NA,NA,NA,NA
+"Seychelles","seychelles","seychelles","sc","syc","seychelles"
+"Sierra Leone","sierra leone","sierra leone","sl","sle","sierra leone"
+"Singapore","singapore","singapore","sg","sgp","singapore"
+"Sint Maarten","sint maarten","sint maarten (dutch part)","sx","sxm",NA
+"Slovakia","slovakia","slovakia","sk","svk","slovakia"
+"Slovenia","slovenia","slovenia","si","svn","slovenia"
+"Solomon Islands","solomon islands","solomon islands","sb","slb","solomon islands"
+"Somalia","somalia","somalia","so","som","somalia"
+"Somaliland","somaliland",NA,NA,NA,NA
+"South Africa","south africa","south africa","za","zaf","south africa"
+"South Georgia & South Sandwich Islands","south georgia & south sandwich islands","south georgia and the south sandwich islands","gs","sgs",NA
+"South Korea","south korea","korea (the republic of)","kr","kor","republic of korea"
+"South Sudan","south sudan","south sudan","ss","ssd","south sudan"
+"Spain","spain","spain","es","esp","spain"
+"Sri Lanka","sri lanka","sri lanka","lk","lka","sri lanka"
+"St. Barthélemy","st. barthélemy","saint barthélemy","bl","blm",NA
+"St. Helena","st. helena","saint helena, ascension and tristan da cunha","sh","shn",NA
+"St. Kitts & Nevis","st. kitts & nevis","saint kitts and nevis","kn","kna","saint kitts and nevis"
+"St. Lucia","st. lucia","saint lucia","lc","lca","saint lucia"
+"St. Pierre & Miquelon","st. pierre & miquelon","saint pierre and miquelon","pm","spm",NA
+"St. Vincent & Grenadines","st. vincent & grenadines","saint vincent and the grenadines","vc","vct","saint vincent and the grenadines"
+"Sudan","sudan","sudan (the)","sd","sdn","sudan"
+"Suriname","suriname","suriname","sr","sur","suriname"
+"Svalbard & Jan Mayen","svalbard & jan mayen","svalbard and jan mayen","sj","sjm",NA
+"Sweden","sweden","sweden","se","swe","sweden"
+"Switzerland","switzerland","switzerland","ch","che","switzerland"
+"Syria","syria","syrian arab republic (the)","sy","syr","syrian arab republic"
+"Taiwan","taiwan","taiwan (province of china)","tw","twn",NA
+"Tajikistan","tajikistan","tajikistan","tj","tjk","tajikistan"
+"Tanzania","tanzania","tanzania, the united republic of","tz","tza","united republic of tanzania"
+"Thailand","thailand","thailand","th","tha","thailand"
+"Timor-Leste","timor-leste","timor-leste","tl","tls","timor-leste"
+"Togo","togo","togo","tg","tgo","togo"
+"Tokelau","tokelau","tokelau","tk","tkl",NA
+"Tonga","tonga","tonga","to","ton","tonga"
+"Trinidad & Tobago","trinidad & tobago","trinidad and tobago","tt","tto","trinidad and tobago"
+"Tunisia","tunisia","tunisia","tn","tun","tunisia"
+"Turkey","turkey","turkey","tr","tur","turkey"
+"Turkmenistan","turkmenistan","turkmenistan","tm","tkm","turkmenistan"
+"Turks & Caicos Islands","turks & caicos islands","turks and caicos islands (the)","tc","tca",NA
+"Tuscany","tuscany",NA,NA,NA,NA
+"Tuvalu","tuvalu","tuvalu","tv","tuv","tuvalu"
+"Two Sicilies","two sicilies",NA,NA,NA,NA
+"U.S. Virgin Islands","u.s. virgin islands","virgin islands (u.s.)","vi","vir",NA
+"Uganda","uganda","uganda","ug","uga","uganda"
+"Ukraine","ukraine","ukraine","ua","ukr","ukraine"
+"United Arab Emirates","united arab emirates","united arab emirates (the)","ae","are","united arab emirates"
+"United Arab Republic","united arab republic",NA,NA,NA,NA
+"United Kingdom","united kingdom","united kingdom","gb","gbr","united kingdom of great britain and northern ireland"
+"United Province CA","united province ca",NA,NA,NA,NA
+"United States","united states","united states of america (the)","us","usa","united states of america"
+"United States Minor Outlying Islands (the)","united states minor outlying islands (the)","united states minor outlying islands (the)","um","umi",NA
+"Uruguay","uruguay","uruguay","uy","ury","uruguay"
+"Uzbekistan","uzbekistan","uzbekistan","uz","uzb","uzbekistan"
+"Vanuatu","vanuatu","vanuatu","vu","vut","vanuatu"
+"Vatican City","vatican city","holy see (the)","va","vat",NA
+"Venezuela","venezuela","venezuela (bolivarian republic of)","ve","ven","venezuela (bolivarian republic of)"
+"Vietnam","vietnam","viet nam","vn","vnm","viet nam"
+"Wallis & Futuna","wallis & futuna","wallis and futuna","wf","wlf",NA
+"Western Sahara","western sahara","western sahara","eh","esh",NA
+"Wuerttemburg","wuerttemburg",NA,NA,NA,NA
+"Würtemberg","würtemberg",NA,NA,NA,NA
+"Yemen","yemen","yemen","ye","yem","yemen"
+"Yemen Arab Republic","yemen arab republic",NA,NA,NA,NA
+"Yemen People's Republic","yemen people's republic",NA,NA,NA,NA
+"Yugoslavia","yugoslavia",NA,NA,NA,NA
+"Zambia","zambia","zambia","zm","zmb","zambia"
+"Zanzibar","zanzibar",NA,NA,NA,NA
+"Zimbabwe","zimbabwe","zimbabwe","zw","zwe","zimbabwe"
